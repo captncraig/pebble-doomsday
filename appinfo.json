@@ -1,0 +1,18 @@
+{
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        ""
+    ],
+    "uuid": "2bddb8dd-93da-4a07-b8af-085e3ce8cc26",
+    "versionCode": 1,
+    "companyName": "pebble@craigosaur.us",
+    "shortName": "Doomsday",
+    "watchapp": {
+        "watchface": false
+    },
+    "versionLabel": "1.0",
+    "longName": "Doomsday",
+    "appKeys": {}
+}
